@@ -81,6 +81,7 @@ in line referencing:
 
 There is a significant association (i.e. non-independence) between site and lizard tail breakage($\chi$^2^(`r lizard_tidy$parameter`) = `r lizard_tidy$statistic`, *p* = `r lizard_tidy$p.value`)
  - can round these, look at key for help
+  - remember what you are asking for when you type the final (significant association line)
 
 
 
